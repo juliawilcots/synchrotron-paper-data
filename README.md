@@ -1,4 +1,6 @@
 # synchrotron-paper-data
+[![DOI](https://zenodo.org/badge/398385572.svg)](https://zenodo.org/badge/latestdoi/398385572)
+
 Data to accompany Wilcots et al. 2021 (Nanoscale crystal fabric of primary Ediacaran dolomite)  
 
 /EPMA/  
