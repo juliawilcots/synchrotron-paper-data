@@ -4,7 +4,8 @@
 Data to accompany Wilcots et al. 2021 (Nanoscale crystal fabric of primary Ediacaran dolomite)  
 
 /EPMA/  
-Electron probe microanalysis data. ~50 spot analyses on sample MD6 258.6  
+Electron probe microanalysis data. ~50 spot analyses on sample MD6 258.6 (see Osburn et al., 2014 and Bergmann et al., 2018 for stratigraphic context).  
+Elemental maps (Mn, Mg, Si x 2)
 
 **METHODS**  
 Electron probe spot analyses were taken using a JEOL JXA-8200 Electron Microprobe at the California Institute of Technology with an accelerating voltage of 15 kV, beam current of 20nA, and beam size of 1 µm. Calcite and dolomite standards were used to calibrate the Ca and Mg measurements, respectively. Average detection limits for Ca and Mg were 177 ppm and 283 ppm, respectively. The CITZAF method was used for matrix correction.  
